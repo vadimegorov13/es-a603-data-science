@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Editors
+.vscode/
+.idea/
+
+# Office lock files
+~$*
+
+# AI assistant files (keep out of the repo)
+CLAUDE.md
+AGENTS.md
+.claude/
+.codex/
+.cursor/
+graphify-out/
