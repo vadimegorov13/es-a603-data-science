@@ -10,6 +10,7 @@ My coursework for ES A603 (Fall 2026): class notebooks, homework, and presentati
 | **HW3** | [What makes a Steam game successful?](notebooks/homework/hw3_steam_games_eda.ipynb) | [Steam Games v2](https://www.kaggle.com/datasets/muhammadaqeelkabir/steam-games-dataset-v2) |
 | **HW4** | [Regression challenge: predicting superconductor temperature](notebooks/homework/hw4_regression_challenge.ipynb) | [Superconductivity](https://archive.ics.uci.edu/dataset/464/superconductivty+data) |
 | **HW5** | [XGBoost vs. the baselines on gas sensor data](notebooks/homework/hw5_xgboost_classification.ipynb) | [Gas Sensor Array Drift](https://archive.ics.uci.edu/dataset/270/gas+sensor+array+drift+dataset+at+different+concentrations) |
+| **HW6** | [Finding pulsars without labels: K-Means and PCA](notebooks/homework/hw6_htru2_kmeans_pca.ipynb) | [HTRU2](https://archive.ics.uci.edu/dataset/372/htru2) |
 
 Slides for each homework are in [`presentations/`](presentations/).
 
